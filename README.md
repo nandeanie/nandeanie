@@ -2,23 +2,24 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="500" alt="hi there gif"/>
+  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="700" alt="hi there gif"/>
 </p>
 
-# HEY THERE , I'M NANDINI SINGH , HOPE YOU LIKED OUR DIVA.
-
+# HEY THERE , I'M NANDINI SINGH , WE FRIENDS ALREADY IF U LIKE THIS DIVA!
 
 ### About Me
-- Data Engineer | Python Developer | Tech Enthusiast  
+- Exploring Data Engineering , AI/ML | Python Developer | Tech Enthusiast  
 - I build cool projects, write blogs, and contribute to open-source!
 
 ---
 
 ## Tech Stack
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
