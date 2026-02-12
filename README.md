@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="C:\Users\snand\Desktop\git.gif" width="250" alt="hi there gif"/>
+  <img src="https://tenor.com/view/galaxay%27s-gifs-t-pose-mercedes-george-russell-f1-gif-8694257057215606482" width="250" alt="hi there gif"/>
 </p>
 
 # NANDINI SINGH KUSHWAHA
