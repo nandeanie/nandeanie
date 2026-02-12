@@ -2,18 +2,19 @@
 
 
 <p align="center">
-  <img src="https://tenor.com/view/galaxay's-gifs-t-pose-mercedes-george-russell-f1-gif-8694257057215606482" width="250" alt="hi there gif"/>
+  <img src="![git](https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71)
+C:\Users\snand\Desktop\git.gif" width="250" alt="hi there gif"/>
 </p>
 
 # NANDINI SINGH KUSHWAHA
 
-### 👨‍💻 About Me
+### About Me
 - Data Engineer | Python Developer | Tech Enthusiast  
 - I build cool projects, write blogs, and contribute to open-source!
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -21,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
@@ -30,9 +31,9 @@
 
 ---
 
-## 📌 Projects
-- 🔭 **Learn-GitHub** – Tips and tricks for GitHub
-- 🌐 **Your Project** – Add yours here
+##  Projects
+-  **Learn-GitHub** – Tips and tricks for GitHub
+- **Your Project** – Add yours here
 
 ---
 
