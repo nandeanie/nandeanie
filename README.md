@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src=![git](https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71) width="250" alt="hi there gif"/>
+  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="250" alt="hi there gif"/>
 </p>
 
 # NANDINI SINGH KUSHWAHA
