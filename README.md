@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="700" alt="hi there gif"/>
 </p>
 
-# HEY THERE , I'M NANDINI , WE FRIENDS ALREADY IF U KNOW THIS DIVA!
+# HI THERE ,I'M NANDINI ,WE FRIENDS ALREADY IF U KNOW THIS DIVA!
 
 ### About Me
 - Exploring Data Engineering , AI/ML | Python Developer | Tech Enthusiast  
