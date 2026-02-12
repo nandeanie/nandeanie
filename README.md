@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="700" alt="hi there gif"/>
 </p>
 
-# HEY THERE , I'M NANDINI SINGH , WE FRIENDS ALREADY IF U LIKE THIS DIVA!
+# HEY THERE , I'M NANDINI , WE FRIENDS ALREADY IF U KNOW THIS DIVA!
 
 ### About Me
 - Exploring Data Engineering , AI/ML | Python Developer | Tech Enthusiast  
@@ -30,15 +30,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%" />
 </p>
 
----
 
-##  Projects
--  **Learn-GitHub** – Tips and tricks for GitHub
-- **Your Project** – Add yours here
 
----
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nandini-singh-kushwaha-739676352/])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
