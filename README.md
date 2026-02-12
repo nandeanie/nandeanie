@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="700" alt="hi there gif"/>
+  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="700" length="100" alt="hi there gif"/>
 </p>
 
 # Welcome ,I'M NANDINI , we are friends already if yk this DIVA!
