@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src=""C:\Users\snand\Desktop\git.gif"" width="250" alt="hi there gif"/>
+  <img src="C:\Users\snand\Desktop\git.gif" width="250" alt="hi there gif"/>
 </p>
 
 # NANDINI SINGH KUSHWAHA
