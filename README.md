@@ -2,10 +2,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="250" alt="hi there gif"/>
+  <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="500" alt="hi there gif"/>
 </p>
 
-# NANDINI SINGH KUSHWAHA
+# HEY THERE , I'M NANDINI SINGH , HOPE YOU LIKED OUR DIVA.
+
 
 ### About Me
 - Data Engineer | Python Developer | Tech Enthusiast  
