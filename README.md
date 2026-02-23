@@ -47,4 +47,4 @@ Pre-final year BTech IT · Open to internships
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nandini-singh-kushwaha-739676352/])
+![LinkedIn](https://www.linkedin.com/in/nandini-singh-kushwaha-739676352/])
