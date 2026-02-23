@@ -8,19 +8,29 @@
 # Welcome ,I'M NANDINI , we are friends already if yk this DIVA!
 
 ### About Me
-- Exploring Data Engineering , AI/ML | Python Developer | Tech Enthusiast  
-- I build cool projects, write blogs, and contribute to open-source!
+Building backends that don't break at 3AM 🐍
+Python · FastAPI · Django · PostgreSQL · Docker
+Pre-final year BTech IT · Open to internships
 
----
 
 ## Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=nandini123&color=blue&style=flat)
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-1B3A6B?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1B3A6B?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1B3A6B?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2563EB?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-1B3A6B?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B3A6B?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1B3A6B?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ---
