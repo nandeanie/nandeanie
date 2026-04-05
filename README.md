@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/770407fe-817f-45ef-830b-af16f0f5cf71" width="400" length="100" alt="hi there gif"/>
 </p>
 
-# Welcome ,I'M NANDINI , we are friends already if yk this DIVA!
+# WILLKOMMEN , we are friends already if you know this DIVA!
 
 ### About Me
 Building backends that don't break at 3AM 🐍
