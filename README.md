@@ -3,6 +3,8 @@ Hi, I'm Nandini .
 
 
 Java Developer | Application Developer | ML Enthusiast
+
+
 I enjoy building functional, well-designed applications — from desktop tools to exploring how machine learning models are evaluated.
 I care about clean code, thoughtful UI, and shipping things that actually work.
 
@@ -20,7 +22,11 @@ I care about clean code, thoughtful UI, and shipping things that actually work.
 
 🛠 Skills & Tools
 Languages   Java | Python | HTML | CSS | JS | TypeScript
+
+
 Frameworks & Libraries   Java Swing | AWT | JLayer | JAudioTagger | mp3agic
+
+
 Tools   Git | IntelliJ / Eclipse | VS Code
 
 
@@ -28,7 +34,9 @@ Tools   Git | IntelliJ / Eclipse | VS Code
 
 💼 Projects
 🎵 Music Player
-A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
+A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, 
+sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
+
 Java Swing JLayer JAudioTagger mp3agic 
 
 <p align="left">
