@@ -1,6 +1,14 @@
 Hi, I'm Nandini .
+
+
+
 Java Developer | Application Developer | ML Enthusiast
-I enjoy building functional, well-designed applications — from desktop tools to exploring how machine learning models are evaluated. I care about clean code, thoughtful UI, and shipping things that actually work.
+I enjoy building functional, well-designed applications — from desktop tools to exploring how machine learning models are evaluated.
+I care about clean code, thoughtful UI, and shipping things that actually work.
+
+
+
+
 
 🚀 About Me
 
@@ -14,6 +22,9 @@ I enjoy building functional, well-designed applications — from desktop tools t
 Languages   Java | Python | HTML | CSS | JS | TypeScript
 Frameworks & Libraries   Java Swing | AWT | JLayer | JAudioTagger | mp3agic
 Tools   Git | IntelliJ / Eclipse | VS Code
+
+
+
 
 💼 Projects
 🎵 Music Player
