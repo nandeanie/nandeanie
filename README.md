@@ -30,7 +30,6 @@ Tools   Git | IntelliJ / Eclipse | VS Code
 🎵 Music Player
 A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
 Java Swing JLayer JAudioTagger mp3agic 
-![Alt text](C:\Users\snand\Pictures\Screenshots\Screenshot 2026-04-07 044347.png "Optional title")
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nandeanie&style=flat&color=grey" />
