@@ -17,6 +17,10 @@ I care about clean code, thoughtful UI, and shipping things that actually work.
 🔭 Currently building Java-based desktop applications with a focus on UI and responsiveness.
 🌱 Exploring machine learning and LLM evaluation.
 💬 Ask me about Java, Swing, audio libraries, or anything in my repos.
+
+
+
+
 📫 Reach me at: [snandini1888@gmail.com]
 
 
