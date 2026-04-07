@@ -42,6 +42,7 @@ Tools   Git | IntelliJ / Eclipse | VS Code
 
 
 🎵 Music Player
+
 A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, 
 sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
 
