@@ -26,7 +26,7 @@ I care about clean code, thoughtful UI, and shipping things that actually work.
 
 
 🛠 Skills & Tools
-Languages   Java | Python | HTML | CSS | JS | TypeScript
+Languages   Java | Python | HTML | CSS | JS | TypeScript | MySQL | PostgreSQL
 
 
 Frameworks & Libraries   Java Swing | AWT | JLayer | JAudioTagger | mp3agic
