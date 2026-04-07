@@ -22,7 +22,9 @@ I care about clean code, thoughtful UI, and shipping things that actually work.
 
 
 
-📫 Reach me at: [snandini1888@gmail.com]
+📫 Reach me at: 
+
+[snandini1888@gmail.com]
 
 
 🛠 Skills & Tools
@@ -49,6 +51,8 @@ A desktop MP3 player built around an iPod mini–inspired interface. Features fu
 sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
 
 Java Swing JLayer JAudioTagger mp3agic 
+
+
 
 
 <img width="252" height="481" alt="Screenshot 2026-04-07 044347" src="https://github.com/user-attachments/assets/e4509b18-5d81-4077-8b37-54345ecc0275" />
