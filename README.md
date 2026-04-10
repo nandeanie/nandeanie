@@ -2,6 +2,9 @@
 Hi, I'm Nandini .
 
 
+I TURN ANYTHING I OBSERVE INTO A PROJECT .
+
+
 
 Java Developer | Application Developer | ML Enthusiast
 
