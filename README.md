@@ -27,6 +27,10 @@ I care about clean code, thoughtful UI, and shipping things that actually work.
 
 
 
+
+
+
+
 📫 Reach me at: 
 
 [snandini1888@gmail.com]
