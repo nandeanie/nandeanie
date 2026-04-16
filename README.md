@@ -2,7 +2,6 @@
 Hi, I'm Nandini .
 
 
-I TURN ANYTHING I OBSERVE INTO A PROJECT .
 
 
 
