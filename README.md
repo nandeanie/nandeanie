@@ -66,6 +66,11 @@ Java Swing JLayer JAudioTagger mp3agic
 
 <img width="252" height="481" alt="Screenshot 2026-04-07 044347" src="https://github.com/user-attachments/assets/e4509b18-5d81-4077-8b37-54345ecc0275" />
 
+🏫 CampusPulse
+A campus social platform built around a Reddit-inspired interface. Features anonymous post submissions, real-time alerts, NLP-based sentiment analysis, campus health monitoring, 
+AI chat assistant, and hostel complaint tracking.
+Spring Boot · React · MongoDB · Tailwind · WebSocket · Groq AI
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nandeanie&style=flat&color=grey" />
 </p>
