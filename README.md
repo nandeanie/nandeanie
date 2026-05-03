@@ -70,8 +70,11 @@ Java Swing JLayer JAudioTagger mp3agic
 <br>
 
 🏫 CampusPulse
+
+
 A campus social platform built around a Reddit-inspired interface. Features anonymous post submissions, real-time alerts, NLP-based sentiment analysis, campus health monitoring, 
 AI chat assistant, and hostel complaint tracking.
+
 Spring Boot · React · MongoDB · Tailwind · WebSocket · Groq AI
 
 <p align="left">
