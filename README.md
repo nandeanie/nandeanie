@@ -5,7 +5,7 @@ Hi, I'm Nandini .
 
 
 
-Java Developer | Application Developer | ML Enthusiast
+**Java Developer | Application Developer | ML Enthusiast**
 
 
 I enjoy building functional, well-designed applications — from desktop tools to exploring how machine learning models are evaluated.
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 
 
-🚀 About Me
+🚀 **About Me**
 
 🔭 Currently building Java-based desktop applications with a focus on UI and responsiveness.
 
@@ -33,14 +33,14 @@ ________________________________________________________________________________
 
 
 
-📫 Reach me at: 
+📫** Reach me at**: 
 
 [singhnandinihere@gmail.com]
 
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-🛠 Skills & Tools
+🛠 **Skills & Tools**
 
 
 Languages   Java | Python | HTML | CSS | JS | TypeScript | MySQL | PostgreSQL
@@ -55,16 +55,16 @@ ________________________________________________________________________________
 
 
 
-💼 Projects
+💼 **Projects**
 
 
 
-🎵 Music Player
+🎵 **Music Player**
 
 A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, 
 sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
 
-Java Swing JLayer JAudioTagger mp3agic 
+**Java Swing JLayer JAudioTagger mp3agic **
 
 
 
@@ -74,12 +74,15 @@ Java Swing JLayer JAudioTagger mp3agic
 
 <br>
 
-🎛️ Gesture Sequencer
+
+<br>
+
+🎛️ **Gesture Sequencer**
 
 A browser-based music sequencer controlled by mouse or webcam hand tracking. Features a 16×8 step grid,
 physics-based cell decay, real-time note triggering, scale/BPM control, reverb, and MediaPipe hand tracking via webcam.
-
-JavaScript Canvas Web Audio API MediaPipe
+**
+JavaScript Canvas Web Audio API MediaPipe**
 
 
 
