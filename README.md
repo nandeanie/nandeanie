@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 
 
-📫** Reach me at**: 
+📫 Reach me at: 
 
 [singhnandinihere@gmail.com]
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, 
 sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
 
-**Java Swing JLayer JAudioTagger mp3agic **
+**Java Swing JLayer JAudioTagger mp3agic**
 
 
 
@@ -81,8 +81,7 @@ sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statisti
 
 A browser-based music sequencer controlled by mouse or webcam hand tracking. Features a 16×8 step grid,
 physics-based cell decay, real-time note triggering, scale/BPM control, reverb, and MediaPipe hand tracking via webcam.
-**
-JavaScript Canvas Web Audio API MediaPipe**
+**JavaScript Canvas Web Audio API MediaPipe**
 
 
 
