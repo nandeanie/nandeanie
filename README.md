@@ -79,7 +79,7 @@ JavaScript Canvas Web Audio API MediaPipe
 
 
 
-<img width="916" height="526" alt="Screenshot 2026-05-05 022944" src="https://github.com/user-attachments/assets/33d81c91-c1f8-498b-a7a9-07320c6dfbf1" />
+<img width="416" height="226" alt="Screenshot 2026-05-05 022944" src="https://github.com/user-attachments/assets/33d81c91-c1f8-498b-a7a9-07320c6dfbf1" />
 
 
 
