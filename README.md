@@ -69,13 +69,20 @@ Java Swing JLayer JAudioTagger mp3agic
 
 <br>
 
-🏫 CampusPulse
+🎛️ Gesture Sequencer
+
+A browser-based music sequencer controlled by mouse or webcam hand tracking. Features a 16×8 step grid,
+physics-based cell decay, real-time note triggering, scale/BPM control, reverb, and MediaPipe hand tracking via webcam.
+
+JavaScript Canvas Web Audio API MediaPipe
 
 
-A campus social platform built around a Reddit-inspired interface. Features anonymous post submissions, real-time alerts, NLP-based sentiment analysis, campus health monitoring, 
-AI chat assistant, and hostel complaint tracking.
 
-Spring Boot · React · MongoDB · Tailwind · WebSocket · Groq AI
+
+<img width="1916" height="926" alt="Screenshot 2026-05-05 022944" src="https://github.com/user-attachments/assets/33d81c91-c1f8-498b-a7a9-07320c6dfbf1" />
+
+
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nandeanie&style=flat&color=grey" />
