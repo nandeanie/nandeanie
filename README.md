@@ -12,6 +12,8 @@ I enjoy building functional, well-designed applications — from desktop tools t
 
 I care about clean code, thoughtful UI, and shipping things that actually work.
 
+_________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
