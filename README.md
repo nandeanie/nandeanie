@@ -81,6 +81,7 @@ sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statisti
 
 A browser-based music sequencer controlled by mouse or webcam hand tracking. Features a 16×8 step grid,
 physics-based cell decay, real-time note triggering, scale/BPM control, reverb, and MediaPipe hand tracking via webcam.
+
 **JavaScript Canvas Web Audio API MediaPipe**
 
 
