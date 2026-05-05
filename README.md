@@ -59,7 +59,19 @@ ________________________________________________________________________________
 
 
 
-🎵 **Music Player**
+🧠 **Quiz Application** (May 2025 - July 2025)
+
+A desktop quiz game built around a personality-quiz–inspired interface. Features category selection, custom question count, player name entry, and 
+real-time score tracking. Supports creating custom questions with multiple choice answers stored in a database. Custom card UI with Navy / Blue theming.
+
+**Java Swing JDBC MySQL**
+
+
+<img width="252" height="481" alt="Screenshot 2026-05-05 163626" src="https://github.com/user-attachments/assets/78c3dc56-928f-4c22-90d9-d0f071de2c51" />
+
+
+
+🎵 **Music Player** (Sep 2025 - Nov 2025)
 
 A desktop MP3 player built around an iPod mini–inspired interface. Features full playback control, playlist management (.txt & .m3u), favorites, 
 sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statistics. Custom click-wheel UI with Pink / White theming.
@@ -77,7 +89,7 @@ sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statisti
 
 <br>
 
-🎛️ **Gesture Sequencer**
+🎛️ **Gesture Sequencer** (Jan 2026 - Feb 2026)
 
 A browser-based music sequencer controlled by mouse or webcam hand tracking. Features a 16×8 step grid,
 physics-based cell decay, real-time note triggering, scale/BPM control, reverb, and MediaPipe hand tracking via webcam.
