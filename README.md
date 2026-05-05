@@ -43,17 +43,17 @@ ________________________________________________________________________________
 🛠 **Skills & Tools**
 
 
-Languages   
+**Languages   **
 
 Java | Python | JavaScript | TypeScript | HTML | CSS | MySQL | PostgreSQL
 
 
-Frameworks & Libraries  
+**Frameworks & Libraries  **
 
 Java Swing | AWT | JLayer | JAudioTagger | mp3agic | Web Audio API | MediaPipe | Canvas API | JDBC
 
 
-Tools   
+**Tools   **
 
 Git | IntelliJ / Eclipse | VS Code
 
@@ -113,7 +113,11 @@ physics-based cell decay, real-time note triggering, scale/BPM control, reverb, 
 <img width="416" height="326" alt="Screenshot 2026-05-05 022944" src="https://github.com/user-attachments/assets/33d81c91-c1f8-498b-a7a9-07320c6dfbf1" />
 
 
+<br>
 
+
+
+<br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nandeanie&style=flat&color=grey" />
