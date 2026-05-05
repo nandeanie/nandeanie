@@ -43,17 +43,17 @@ ________________________________________________________________________________
 🛠 **Skills & Tools**
 
 
-**Languages   **
+**Languages**
 
 Java | Python | JavaScript | TypeScript | HTML | CSS | MySQL | PostgreSQL
 
 
-**Frameworks & Libraries  **
+**Frameworks & Libraries**
 
 Java Swing | AWT | JLayer | JAudioTagger | mp3agic | Web Audio API | MediaPipe | Canvas API | JDBC
 
 
-**Tools   **
+**Tools**
 
 Git | IntelliJ / Eclipse | VS Code
 
