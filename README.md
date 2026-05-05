@@ -62,7 +62,7 @@ ________________________________________________________________________________
 🧠 **Quiz Application** (May 2025 - July 2025)
 
 A desktop quiz game built around a personality-quiz–inspired interface. Features category selection, custom question count, player name entry, and 
-real-time score tracking. Supports creating custom questions with multiple choice answers stored in a database. Custom card UI with Navy / Blue theming.
+real-time score tracking. Supports creating custom questions with multiple choice answers stored in a database. 
 
 **Java Swing JDBC MySQL**
 
