@@ -97,7 +97,6 @@ sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statisti
 
 <br>
 
-
 <br>
 
 🎛️ **Gesture Sequencer** (Jan 2026 - Feb 2026)
