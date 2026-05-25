@@ -96,6 +96,7 @@ sleep timer, equalizer, A-B looping, lyrics fetching, and per-song play statisti
 
 
 <br>
+<br>
 
 <br>
 
