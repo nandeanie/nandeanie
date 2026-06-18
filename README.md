@@ -5,7 +5,7 @@ Hi, I'm Nandini .
 
 
 
-**Java Developer | Application Developer | ML Enthusiast**
+**Java Developer | ML Enthusiast**
 
 
 I enjoy building functional, well-designed applications — from desktop tools to exploring how machine learning models are evaluated.
