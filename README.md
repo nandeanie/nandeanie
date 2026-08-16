@@ -8,9 +8,9 @@ Hi, I'm Nandini .
 **Java Developer | ML Enthusiast**
 
 
-I enjoy building functional, well-designed applications — from desktop tools to exploring how machine learning models are evaluated.
+**Software Engineer | AI/ML & RAG Systems**
 
-I care about clean code, thoughtful UI, and shipping things that actually work.
+I build systems that sit at the intersection of backend engineering and applied ML — from vector search engines to LLM evaluation tooling. I care about clean code, systems that actually run fast, and shipping things that work end-to-end.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -18,14 +18,12 @@ ________________________________________________________________________________
 
 
 
-🚀 **About Me**
+### 🚀 About Me
 
-🔭 Currently building Java-based desktop applications with a focus on UI and responsiveness.
-
-🌱 Exploring machine learning and LLM evaluation.
-
-💬 Ask me about Java, Swing, audio libraries, or anything in my repos.
-
+- 🔍 Building **RAG and vector search systems** from scratch — indexing algorithms, embeddings, retrieval pipelines
+- 🤖 Exploring **LLM evaluation** — contributed to HuggingFace's `lighteval` toolkit
+- 🧠 Applied ML — risk-scoring models, simulation-based systems
+- 💬 Ask me about Java, vector databases, RAG pipelines, or anything in my repos
 
 
 
@@ -40,23 +38,18 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-🛠 **Skills & Tools**
-
+### 🛠️ Skills & Tools
 
 **Languages**
-
 Java | Python | JavaScript | TypeScript | HTML | CSS | MySQL | PostgreSQL
 
+**AI/ML & Backend**
+Vector Search & Indexing (Brute-force, KD-Tree, HNSW) | RAG Pipelines | Ollama | FastAPI | Spring Boot | Java Swing | JDBC
 
-**Frameworks & Libraries**
+**Frontend & Tools**
+React | MediaPipe | Web Audio API | Canvas API | Git | IntelliJ / VS Code
 
-Java Swing | AWT | JLayer | JAudioTagger | mp3agic | Web Audio API | MediaPipe | Canvas API | JDBC
-
-
-**Tools**
-
-Git | IntelliJ / Eclipse | VS Code
-
+---
 _______________________________________________________________________________________________________________________________________________________________________
 
 
@@ -114,6 +107,12 @@ physics-based cell decay, real-time note triggering, scale/BPM control, reverb, 
 
 
 <br>
+
+**VectorDB-Java** — *A vector database engine built from scratch in Java*
+Implements brute-force, KD-Tree, and HNSW indexing with cosine/euclidean/manhattan distance metrics. Includes a full RAG pipeline — text chunking, embedding generation via Ollama, and a live web UI for visualizing retrieval in real time.
+
+
+**Java` `HNSW` `RAG` `Vector Search**
 
 
 
