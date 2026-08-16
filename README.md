@@ -3,14 +3,11 @@ Hi, I'm Nandini .
 
 
 
-
-
-**Java Developer | ML Enthusiast**
-
-
 **Software Engineer | AI/ML & RAG Systems**
 
-I build systems that sit at the intersection of backend engineering and applied ML — from vector search engines to LLM evaluation tooling. I care about clean code, systems that actually run fast, and shipping things that work end-to-end.
+I build systems that sit at the intersection of backend engineering and applied ML — from vector search engines to LLM evaluation tooling.
+
+I care about clean code, systems that actually run fast, and shipping things that work end-to-end.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -21,8 +18,11 @@ ________________________________________________________________________________
 ### 🚀 About Me
 
 - 🔍 Building **RAG and vector search systems** from scratch — indexing algorithms, embeddings, retrieval pipelines
+- 
 - 🤖 Exploring **LLM evaluation** — contributed to HuggingFace's `lighteval` toolkit
+- 
 - 🧠 Applied ML — risk-scoring models, simulation-based systems
+- 
 - 💬 Ask me about Java, vector databases, RAG pipelines, or anything in my repos
 
 
