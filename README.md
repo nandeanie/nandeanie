@@ -3,7 +3,15 @@ Hi, I'm Nandini .
 
 
 
+
+
+
+
 **Software Engineer | AI/ML & RAG Systems**
+
+
+
+
 
 I build systems that sit at the intersection of backend engineering and applied ML — from vector search engines to LLM evaluation tooling.
 
