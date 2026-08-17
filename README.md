@@ -116,11 +116,19 @@ physics-based cell decay, real-time note triggering, scale/BPM control, reverb, 
 
 <br>
 
+
+
+<br>
+
+
+
 **VectorDB-Java** — *A vector database engine built from scratch in Java*
+
+
 Implements brute-force, KD-Tree, and HNSW indexing with cosine/euclidean/manhattan distance metrics. Includes a full RAG pipeline — text chunking, embedding generation via Ollama, and a live web UI for visualizing retrieval in real time.
 
 
-**Java` `HNSW` `RAG` `Vector Search**
+**Java  HNSW  RAG  Vector Search**
 
 
 
