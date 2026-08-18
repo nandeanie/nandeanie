@@ -26,11 +26,11 @@ ________________________________________________________________________________
 ### 🚀 About Me
 
 - 🔍 Building **RAG and vector search systems** from scratch — indexing algorithms, embeddings, retrieval pipelines
-- 
+
 - 🤖 Exploring **LLM evaluation** — contributed to HuggingFace's `lighteval` toolkit
-- 
+
 - 🧠 Applied ML — risk-scoring models, simulation-based systems
-- 
+
 - 💬 Ask me about Java, vector databases, RAG pipelines, or anything in my repos
 
 
