@@ -143,10 +143,11 @@ and double-spend protection for reliable offline payments.
 
 
 
-**VectorDB-Java** — *A vector database engine built from scratch in Java*
+**VectorDB-Java** 
 
 
-Implements brute-force, KD-Tree, and HNSW indexing with cosine/euclidean/manhattan distance metrics. Includes a full RAG pipeline — text chunking, embedding generation via Ollama, and a live web UI for visualizing retrieval in real time.
+Implements brute-force, KD-Tree, and HNSW indexing with cosine/euclidean/manhattan distance metrics. Includes a full RAG pipeline — text chunking, embedding generation via Ollama,
+and a live web UI for visualizing retrieval in real time.
 
 
 **Java  HNSW  RAG  Vector Search**
@@ -157,6 +158,27 @@ Implements brute-force, KD-Tree, and HNSW indexing with cosine/euclidean/manhatt
 
 <img width="1919" height="926" alt="Screenshot 2026-09-22 110525" src="https://github.com/user-attachments/assets/7bd441c9-8077-482a-a4cf-a54f0e367e4c" />
 
+
+<br>
+
+
+
+**Go-ledger-java**
+
+Double-entry payment ledger REST API on Spring Boot — postings enforce a zero-sum invariant at both the service layer and a Postgres deferred-constraint trigger. Scoped API-key auth, mandatory idempotency keys with concurrency-safe replay under SERIALIZABLE isolation, multi-tenant account isolation, and trial-balance/statement reporting. Testcontainers-backed integration tests against real Postgres.
+
+
+**Java · Spring Boot · PostgreSQL · REST API · Multi-tenancy**
+
+
+
+
+
+
+
+<br>
+
+<img width="1887" height="923" alt="image" src="https://github.com/user-attachments/assets/a2046593-67a9-4ad9-b640-7f9b383ade04" />
 
 <br>
 
