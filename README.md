@@ -120,6 +120,27 @@ physics-based cell decay, real-time note triggering, scale/BPM control, reverb, 
 
 <br>
 
+🌐 UPI Mesh (Feb 2026 - Mar 2026)
+
+
+An offline-capable UPI payment system using Bluetooth/Wi-Fi mesh networking to relay transactions between devices without direct internet access. 
+Features peer-to-peer transaction relaying to the nearest internet-connected node, end-to-end encryption, digital signing to prevent tampering,
+and double-spend protection for reliable offline payments.
+
+
+**Java, Spring Boot**
+<br>
+
+
+
+<img width="1890" height="926" alt="Screenshot 2026-09-22 111226" src="https://github.com/user-attachments/assets/c41d0a9a-bc6f-422a-8db6-d95131140c4b" />
+
+
+<br>
+
+
+
+
 
 
 **VectorDB-Java** — *A vector database engine built from scratch in Java*
