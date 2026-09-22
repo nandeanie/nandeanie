@@ -132,6 +132,11 @@ Implements brute-force, KD-Tree, and HNSW indexing with cosine/euclidean/manhatt
 
 
 
+
+
+<img width="1919" height="926" alt="Screenshot 2026-09-22 110525" src="https://github.com/user-attachments/assets/7bd441c9-8077-482a-a4cf-a54f0e367e4c" />
+
+
 <br>
 
 <p align="left">
